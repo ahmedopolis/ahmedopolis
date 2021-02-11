@@ -27,3 +27,37 @@
 - :closed_book: I'm a Data Science and Machine Learning student at McGill University.
 - :sunglasses: Pronouns: He/His.
 - :performing_arts: Fun fact: I think of humanity as one gigantic team!
+
+## List of Programming Languages:
+
+![JavaScript](images/icons8-javascript-100.png)
+![Python](images/icons8-python-100.png)
+![Java](images/icons8-java-100.png)
+
+## Web/Design tools:
+
+![CSS](images/icons8-css3-100.png)
+![HTML](images/icons8-html-5-100.png)
+![Sass](images/icons8-sass-100.png)
+![NODE.JS](images/icons8-nodejs-100.png)
+![WebPack](images/icons8-webpack-100.png)
+![FIGMA](images/icons8-figma-100.png)
+![NPM](images/icons8-npm-100.png)
+
+## Data Analytic Tools:
+
+![Tableau](images/icons8-tableau-software-100.png)
+![Alteryx](images/alteryx-100.png)
+
+## Terminal:
+
+![GitBash](images/icons8-compare-git-100.png)
+![UBUNTU](images/icons8-ubuntu-100.png)
+
+## Operating Systems:
+
+![Windows10](images/icons8-windows-10-100.png)
+
+## Project Management tool:
+
+![NOTION](images/icons8-notion-100.png)
