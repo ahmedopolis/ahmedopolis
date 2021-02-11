@@ -53,7 +53,7 @@
 
 ![Tableau](images/icons8-tableau-software-100.png)
 
-## Operating Systems:
+## Operating System:
 
 ![Windows10](images/icons8-windows-10-100.png)
 
