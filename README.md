@@ -1,4 +1,8 @@
-## Hi, I'm Ahmed 👋
+# Hi, I'm Ahmed 👋
+
+![Banner](video/8b6698a852323f3.gif)
+
+## Connect with me:
 
 <a href="https://twitter.com/aimogue">
   <img align="left" alt="Ahmed's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -12,6 +16,8 @@
 
 <br/>
 <br/>
+
+## A little about me:
 
 - :telescope: I’m doing some web-dev and data science self-studying.
 - :seedling: I’m currently learning more about the MERN stack and data analytics.
