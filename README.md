@@ -44,14 +44,14 @@
 ![FIGMA](images/icons8-figma-100.png)
 ![NPM](images/icons8-npm-100.png)
 
-## Data Analytic Tools:
-
-![Tableau](images/icons8-tableau-software-100.png)
-
-## Terminal:
+## Terminal Tools:
 
 ![GitBash](images/icons8-compare-git-100.png)
 ![UBUNTU](images/icons8-ubuntu-100.png)
+
+## Data Analytic Tool:
+
+![Tableau](images/icons8-tableau-software-100.png)
 
 ## Operating Systems:
 
