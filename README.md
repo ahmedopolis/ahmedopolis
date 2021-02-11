@@ -47,7 +47,6 @@
 ## Data Analytic Tools:
 
 ![Tableau](images/icons8-tableau-software-100.png)
-![Alteryx](images/alteryx-100.png)
 
 ## Terminal:
 
