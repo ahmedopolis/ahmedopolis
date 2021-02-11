@@ -13,9 +13,10 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently doing some web-dev and data science self-studying.
+- 🔭 I’m doing some web-dev and data science self-studying.
 - 🌱 I’m currently learning more about the MERN stack and data analytics.
 - 💬 Ask me about Data Visualization or any tech related stuff.
-- 📫 How to reach me: [Twitter - @aimogue](https://twitter.com/aimogue)
-- 😄 Pronouns: He/His
+- 📫 How to reach me: [Twitter - @aimogue](https://twitter.com/aimogue).
+- :closed_book: I'm a Data Science and Machine Learning student at McGill University.
+- 😄 Pronouns: He/His.
 - ⚡ Fun fact: I think of humanity as one gigantic team!
