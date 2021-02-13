@@ -5,13 +5,13 @@
 ## Connect with me:
 
 <a href="https://twitter.com/aimogue">
-  <img align="left" alt="Ahmed's Twitter"  src="images/icons8-twitter-100.png" />
+  <img align="left" alt="Ahmed's Twitter"  src="images/icons8-twitter-50.png" />
 </a>
 <a href="https://www.linkedin.com/in/siteahmedibrahim/">
-  <img align="left" alt="Ahmed's Linkdein" width="40px" src="images/icons8-linkedin-100.png" />
+  <img align="left" alt="Ahmed's Linkdein"  src="images/icons8-linkedin-50.png" />
 </a>
 <a href="https://github.com/aimogue">
-  <img align="left" alt="Ahmed's Github" width="40px" src="images/icons8-github-100.png" />
+  <img align="left" alt="Ahmed's Github"  src="images/icons8-github-50.png" />
 </a>
 
 <br/>
