@@ -5,13 +5,13 @@
 ## Connect with me:
 
 <a href="https://twitter.com/aimogue">
-  <img align="left" alt="Ahmed's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ahmed's Twitter" width="22px" src="images/icons8-twitter-100.png" />
 </a>
 <a href="https://www.linkedin.com/in/siteahmedibrahim/">
-  <img align="left" alt="Ahmed's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ahmed's Linkdein" width="22px" src="images/icons8-linkedin-100.png" />
 </a>
 <a href="https://github.com/aimogue">
-  <img align="left" alt="Ahmed's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Ahmed's Github" width="22px" src="images/icons8-github-100.png" />
 </a>
 
 <br/>
@@ -43,6 +43,7 @@
 ![WebPack](images/icons8-webpack-100.png)
 ![FIGMA](images/icons8-figma-100.png)
 ![NPM](images/icons8-npm-100.png)
+![MongoDB](images/icons8-mongodb-100.png)
 
 ## Terminal Tools:
 
