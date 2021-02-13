@@ -2,7 +2,7 @@
 
 ![Banner](video/8b6698a852323f3.gif)
 
-## Connect with me:
+## Connect With Me:
 
 <a href="https://twitter.com/aimogue">
   <img align="left" alt="Ahmed's Twitter" width="70px" src="images/icons8-twitter-100.png" />
@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-## A little about me:
+## A Little About Me:
 
 - :telescope: I’m doing some web-dev and data science self-studying.
 - :seedling: I’m currently learning more about the MERN stack and data analytics.
@@ -37,7 +37,7 @@
 ![C++](images/icons8-c++-50.png)
 ![Java](images/icons8-java-100.png)
 
-## Web/Design tools:
+## Web/Design Tools:
 
 ![CSS](images/icons8-css3-100.png)
 ![HTML](images/icons8-html-5-100.png)
@@ -60,7 +60,7 @@
 ![Excel](images/icons8-microsoft-excel-50.png)
 ![Alteryx](images/alteryx.png)
 
-## Project Management tools:
+## Project Management Tools:
 
 ![NOTION](images/icons8-notion-100.png)
 ![SLACK](images/icons8-slack-50.png)
