@@ -54,13 +54,13 @@
 ![Powershell](images/icons8-powershell-50.png)
 ![UBUNTU](images/icons8-ubuntu-100.png)
 
-## Data Analytic Tool:
+## Data Analytic Tools:
 
 ![Tableau](images/icons8-tableau-software-100.png)
 ![Excel](images/icons8-microsoft-excel-50.png)
 ![Alteryx](images/alteryx.png)
 
-## Project Management tool:
+## Project Management tools:
 
 ![NOTION](images/icons8-notion-100.png)
 ![SLACK](images/icons8-slack-50.png)
