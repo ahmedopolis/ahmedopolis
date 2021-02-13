@@ -5,16 +5,15 @@
 ## Connect with me:
 
 <a href="https://twitter.com/aimogue">
-  <img align="left" alt="Ahmed's Twitter"  src="images/icons8-twitter-100.png" />
+  <img align="left" alt="Ahmed's Twitter" width="70px" src="images/icons8-twitter-100.png" />
 </a>
 <a href="https://www.linkedin.com/in/siteahmedibrahim/">
-  <img align="left" alt="Ahmed's Linkdein"  src="images/icons8-linkedin-100.png" />
+  <img align="left" alt="Ahmed's Linkdein" width="70px" src="images/icons8-linkedin-100.png" />
 </a>
 <a href="https://github.com/aimogue">
-  <img align="left" alt="Ahmed's Github"  src="images/icons8-github-100.png" />
+  <img align="left" alt="Ahmed's Github" width="70px" src="images/icons8-github-100.png" />
 </a>
 
-<br/>
 <br/>
 <br/>
 <br/>
@@ -35,6 +34,7 @@
 
 ![JavaScript](images/icons8-javascript-100.png)
 ![Python](images/icons8-python-100.png)
+![C++](images/icons8-c++-50.png)
 ![Java](images/icons8-java-100.png)
 
 ## Web/Design tools:
@@ -51,16 +51,20 @@
 ## Terminal Tools:
 
 ![GitBash](images/icons8-compare-git-100.png)
+![Powershell](images/icons8-powershell-50.png)
 ![UBUNTU](images/icons8-ubuntu-100.png)
 
 ## Data Analytic Tool:
 
 ![Tableau](images/icons8-tableau-software-100.png)
-
-## Operating System:
-
-![Windows10](images/icons8-windows-10-100.png)
+![Excel](images/icons8-microsoft-excel-50.png)
+![Alteryx](images/alteryx.png)
 
 ## Project Management tool:
 
 ![NOTION](images/icons8-notion-100.png)
+![SLACK](images/icons8-slack-50.png)
+
+## Operating System:
+
+![Windows10](images/icons8-windows-10-100.png)
