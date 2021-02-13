@@ -5,15 +5,17 @@
 ## Connect with me:
 
 <a href="https://twitter.com/aimogue">
-  <img align="left" alt="Ahmed's Twitter" width="22px" src="images/icons8-twitter-100.png" />
+  <img align="left" alt="Ahmed's Twitter" width="70px"  src="images/icons8-twitter-100.png" />
 </a>
 <a href="https://www.linkedin.com/in/siteahmedibrahim/">
-  <img align="left" alt="Ahmed's Linkdein" width="22px" src="images/icons8-linkedin-100.png" />
+  <img align="left" alt="Ahmed's Linkdein" width="70px"  src="images/icons8-linkedin-100.png" />
 </a>
 <a href="https://github.com/aimogue">
-  <img align="left" alt="Ahmed's Github" width="22px" src="images/icons8-github-100.png" />
+  <img align="left" alt="Ahmed's Github" width="70px"  src="images/icons8-github-100.png" />
 </a>
 
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -38,12 +40,12 @@
 
 ![CSS](images/icons8-css3-100.png)
 ![HTML](images/icons8-html-5-100.png)
+![MongoDB](images/icons8-mongodb-100.png)
 ![Sass](images/icons8-sass-100.png)
 ![NODE.JS](images/icons8-nodejs-100.png)
 ![WebPack](images/icons8-webpack-100.png)
 ![FIGMA](images/icons8-figma-100.png)
 ![NPM](images/icons8-npm-100.png)
-![MongoDB](images/icons8-mongodb-100.png)
 
 ## Terminal Tools:
 
