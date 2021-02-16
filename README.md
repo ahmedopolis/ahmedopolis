@@ -13,7 +13,12 @@
 <a href="https://github.com/aimogue">
   <img align="left" alt="Ahmed's Github" width="70px" src="images/icons8-github-100.png" />
 </a>
-
+<a href="https://www.instagram.com/aimogue/">
+  <img align="left" alt="Ahmed's Github" width="70px" src="images/icons8-instagram-100.png" />
+</a>
+<a href="https://angel.co/u/ahmed-ibrahim-57">
+  <img align="left" alt="Ahmed's Github" width="70px" src="images/icons8-angellist-100.png" />
+</a>
 <br/>
 <br/>
 <br/>
