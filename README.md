@@ -1,23 +1,23 @@
 # Hi, I'm Ahmed 👋
 
-![Banner](video/8b6698a852323f3.gif)
+![Banner](video/original.gif)
 
 ## Connect With Me:
 
 <a href="https://twitter.com/aimogue">
   <img align="left" alt="Ahmed's Twitter" width="60px" src="images/icons8-twitter-100.png" />
 </a>
-<a href="https://www.linkedin.com/in/siteahmedibrahim/">
-  <img align="left" alt="Ahmed's Linkdein" width="60px" src="images/icons8-linkedin-100.png" />
-</a>
 <a href="https://github.com/aimogue">
   <img align="left" alt="Ahmed's Github" width="60px" src="images/icons8-github-100.png" />
+</a>
+<a href="https://angel.co/u/ahmed-ibrahim-57">
+  <img align="left" alt="Ahmed's Github" width="60px" src="images/icons8-angellist-100.png" />
 </a>
 <a href="https://www.instagram.com/aimogue/">
   <img align="left" alt="Ahmed's Github" width="60px" src="images/icons8-instagram-100.png" />
 </a>
-<a href="https://angel.co/u/ahmed-ibrahim-57">
-  <img align="left" alt="Ahmed's Github" width="60px" src="images/icons8-angellist-100.png" />
+<a href="https://www.linkedin.com/in/siteahmedibrahim/">
+  <img align="left" alt="Ahmed's Linkdein" width="60px" src="images/icons8-linkedin-100.png" />
 </a>
 <br/>
 <br/>
