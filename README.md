@@ -49,6 +49,7 @@
 ![WebPack](images/icons8-webpack-100.png)
 ![FIGMA](images/icons8-figma-100.png)
 ![NPM](images/icons8-npm-100.png)
+![MySQL](images/icons8-mysql-logo-100.png)
 
 ## Terminal Tools:
 
