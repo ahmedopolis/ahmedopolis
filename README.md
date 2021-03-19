@@ -13,9 +13,6 @@
 <a href="https://www.linkedin.com/in/siteahmedibrahim/">
   <img align="left" alt="Ahmed's Linkdein" width="55px" src="images/icons8-linkedin-100.png" />
 </a>
-<a href="https://www.instagram.com/aimogue/">
-  <img align="left" alt="Ahmed's Github" width="55px" src="images/icons8-instagram-100.png" />
-</a>
 <br/>
 <br/>
 <br/>
