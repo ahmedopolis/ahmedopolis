@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed 👋
 
-![Banner](video/original.gif)
+![Banner](video/8b6698a852323f3.gif)
 
 ## Connect With Me:
 
