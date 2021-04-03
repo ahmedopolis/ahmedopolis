@@ -47,17 +47,18 @@
 ![FIGMA](images/icons8-figma-100.png)
 ![NPM](images/icons8-npm-100.png)
 
-## Terminal Tools:
-
-![GitBash](images/icons8-compare-git-100.png)
-![Powershell](images/icons8-powershell-50.png)
-![UBUNTU](images/icons8-ubuntu-100.png)
-
 ## Data Analytic Tools:
 
 ![Tableau](images/icons8-tableau-software-100.png)
 ![Excel](images/icons8-microsoft-excel-50.png)
 ![Alteryx](images/alteryx.png)
+![MySQL](images/icons8-mysql-50.png)
+
+## Terminal Tools:
+
+![GitBash](images/icons8-compare-git-100.png)
+![Powershell](images/icons8-powershell-50.png)
+![UBUNTU](images/icons8-ubuntu-100.png)
 
 ## Project Management Tools:
 
