@@ -33,7 +33,6 @@
 
 ![JavaScript](images/icons8-javascript-100.png)
 ![Python](images/icons8-python-100.png)
-![C++](images/icons8-c++-50.png)
 ![Java](images/icons8-java-100.png)
 
 ## Web/Design Tools:
