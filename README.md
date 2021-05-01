@@ -49,8 +49,8 @@
 
 ![Tableau](images/icons8-tableau-software-100.png)
 ![Excel](images/icons8-microsoft-excel-50.png)
-![Alteryx](images/alteryx.png)
 ![PostgreSQL](images/icons8-postgresql-48.png)
+![Alteryx](images/alteryx.png)
 
 ## Terminal Tools:
 
