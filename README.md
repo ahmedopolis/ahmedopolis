@@ -29,7 +29,7 @@
 - :sunglasses: Pronouns: He/His.
 - :performing_arts: Fun fact: I think of humanity as one gigantic team!
 
-## List of Programming Languages:
+## List of Programming/Scripting Languages:
 
 ![JavaScript](images/icons8-javascript-100.png)
 ![Python](images/icons8-python-100.png)
