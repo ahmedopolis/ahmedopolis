@@ -35,11 +35,12 @@
 ![Python](images/icons8-python-100.png)
 ![Java](images/icons8-java-100.png)
 
-## Web/Design Tools:
+## Web Development Tools:
 
 ![CSS](images/icons8-css3-100.png)
 ![HTML](images/icons8-html-5-50.png)
 ![MongoDB](images/icons8-mongodb-100.png)
+![PostgreSQL](images/icons8-postgresql-48.png)
 ![Sass](images/icons8-sass-100.png)
 ![NODE.JS](images/icons8-nodejs-100.png)
 ![WebPack](images/icons8-webpack-100.png)
@@ -49,7 +50,6 @@
 
 ![Tableau](images/icons8-tableau-software-100.png)
 ![Excel](images/icons8-microsoft-excel-50.png)
-![PostgreSQL](images/icons8-postgresql-48.png)
 ![Alteryx](images/alteryx.png)
 
 ## Terminal Tools:
