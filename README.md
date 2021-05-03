@@ -63,6 +63,10 @@
 ![NOTION](images/icons8-notion-100.png)
 ![SLACK](images/icons8-slack-50.png)
 
+## Cloud Computing:
+
+![AWS](images/icons8-amazon-web-services-48.png)
+
 ## Operating System:
 
 ![Windows10](images/icons8-windows-10-100.png)
