@@ -45,6 +45,7 @@
 ![NODE.JS](images/icons8-nodejs-100.png)
 ![WebPack](images/icons8-webpack-100.png)
 ![NPM](images/icons8-npm-100.png)
+![Visual Studio](images/icons8-visual-studio-code-2019-48.png)
 
 ## Data Analytic Tools:
 
